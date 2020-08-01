@@ -11,6 +11,6 @@ numero = 6
 lista = [1, 2, 3]
 tupla = (4, 5, 6)
 diccionario = {
-    "nombre": "Rodman"
+    "nombre": "Rodman",
     "apellido": "Iñiguez"
     }

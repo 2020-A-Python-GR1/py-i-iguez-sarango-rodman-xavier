@@ -95,18 +95,18 @@ ciud_concat = pd.concat([
 print(ciudades_uno.max())
 print(pd.Series.max(ciudades_uno))
 print(np.max(ciudades_uno))
-
+print()
 print(ciudades_uno.min())
 print(pd.Series.min(ciudades_uno))
 print(np.min(ciudades_uno))
-
+print()
 print(ciudades_uno.mean())
 print(ciudades_uno.median())
 print(np.average(ciudades_uno))
-
+print()
 print(ciudades_uno.head(2))
 print(ciudades_uno.tail(2))
-
+print()
 print(ciudades_uno.sort_values(ascending = False).head(2))
 print(ciudades_uno.sort_values().tail(2))
 

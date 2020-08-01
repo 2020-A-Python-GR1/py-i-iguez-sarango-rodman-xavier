@@ -1,0 +1,7 @@
+	Proyecto de Python
+
+Libreria: pygame
+Integrantes: Iñiguez Rodman
+	     Ramos Gabriela
+
+Juego: Tetris 3D

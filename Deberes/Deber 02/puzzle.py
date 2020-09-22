@@ -129,7 +129,7 @@ class Application(tk.Frame):
 
 if __name__ == '__main__':
 
-    app = Application('Horda.jpg', 3)
+    app = Application('Horda.png', 3)
     app.master.title('Sliding puzzle')
     app.mainloop()
 

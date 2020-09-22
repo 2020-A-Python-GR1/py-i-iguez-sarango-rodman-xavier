@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 11 07:58:26 2020
 
-@author: COMPANY
+@author: xavi2
 """
 
 

@@ -24,6 +24,5 @@ for columna, df_agrupado in df_agrupar_artista:
     print(columna)
     print(type(df_agrupado))
     print(df_agrupado)
-
-a     
+   
     
